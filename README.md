@@ -1,3 +1,5 @@
+> A simple machine learning model to predict house prices using Linear Regression on the Ames dataset.
+
 # 🏡 House Price Prediction using Linear Regression
 
 This is a beginner-level machine learning project to predict house prices using Linear Regression on the Ames housing dataset.
